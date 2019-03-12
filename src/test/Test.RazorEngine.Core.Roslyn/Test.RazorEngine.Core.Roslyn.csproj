@@ -113,6 +113,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config" />
     <None Include="paket.references" />
     <None Include="RazorEngine.snk" />
   </ItemGroup>

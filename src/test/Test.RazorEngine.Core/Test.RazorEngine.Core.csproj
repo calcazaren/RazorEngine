@@ -141,6 +141,7 @@
     <Compile Include="TestTypes\Person.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config" />
     <None Include="paket.references" />
     <None Include="RazorEngine.snk" />
   </ItemGroup>
